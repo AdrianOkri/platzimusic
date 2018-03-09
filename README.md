@@ -1,6 +1,7 @@
 # platzimusic
 
 > Proyecto del Curso de Introduccion a Vue.js de Platzi
+> Platzimusic, es una app que nos devuelve una lista de las canciones más escuchadas en un país en especial
 
 ## Build Setup
 
