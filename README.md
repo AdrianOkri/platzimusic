@@ -5,6 +5,8 @@
 
 > Platzimusic, es una app que nos devuelve una lista de las canciones más escuchadas en un país en especial
 
+![](https://vuejs.org/images/logo.png)
+
 ## Build Setup
 
 ``` bash
